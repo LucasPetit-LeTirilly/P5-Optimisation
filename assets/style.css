@@ -90,9 +90,9 @@ body {
 	font-size: 14px;
 }
 
-#gallery {
+/* #gallery { */
 	/*	min-height: 100vh; */
-}
+/* } */
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -247,7 +247,7 @@ input[type="submit"] {
 	display: block;
 }
 .image-format-mobile {
-	display: block;
+	display: none;
 }
 
 @media all and (max-width: 1180px) {
