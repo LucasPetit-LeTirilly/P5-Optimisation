@@ -243,6 +243,12 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+.image-format-desktop {
+	display: block;
+}
+.image-format-mobile {
+	display: block;
+}
 
 @media all and (max-width: 1180px) {
 	.picture {
@@ -351,6 +357,12 @@ input[type="submit"] {
 	}
 	.picture {
 		width: 80%;
+	}
+	.image-format-desktop {
+		display: none;
+	}
+	.image-format-mobile {
+		display: block;
 	}
 }
 
