@@ -144,7 +144,7 @@ h3 {
 }
 .nav-pills .nav-item .active-tag{
 	color: white;
-	background-color: #BEB45A;
+	background-color: #93711F;
 }
 .item-column {
 	position: relative;
@@ -253,7 +253,7 @@ h3 {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #BEB45A;
+	background-color: #93711F;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -290,7 +290,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #BEB45A;
+	background-color: #93711F;
 	padding: .5em 1em
 }
 .image-format-desktop {
