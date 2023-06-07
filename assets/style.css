@@ -300,6 +300,10 @@ input[type="submit"] {
 	display: none;
 }
 
+[itemtype="https://schema.org/LocalBusiness"] {
+	margin-left: 12px;
+}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
@@ -372,6 +376,12 @@ input[type="submit"] {
 		bottom: 0;
 		right: 0;
 		z-index: -1;
+	}
+	[itemtype="https://schema.org/LocalBusiness"] {
+		position: relative;
+		text-align: center;
+		color: white;
+		margin-top: 20px;
 	}
 }
 
