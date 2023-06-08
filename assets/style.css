@@ -300,7 +300,7 @@ input[type="submit"] {
 	display: none;
 }
 
-[itemtype="https://schema.org/LocalBusiness"] {
+.infos-locales {
 	margin-left: 12px;
 }
 
@@ -377,7 +377,7 @@ input[type="submit"] {
 		right: 0;
 		z-index: -1;
 	}
-	[itemtype="https://schema.org/LocalBusiness"] {
+	.infos-locales {
 		position: relative;
 		text-align: center;
 		margin-top: 20px;
